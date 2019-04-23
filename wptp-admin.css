@@ -1,0 +1,24 @@
+.wptp-wrap form table:last-of-type { border-bottom: 0; }
+.wptp-wrap form table th { width: 200px; padding: 0 0 1.15em 0; vertical-align: middle !important; text-align: left; }
+.wptp-wrap form table td { padding-bottom: 1.15em; }
+.wptp-wrap form table tr.has-help th, .wptp-wrap form table tr.has-help td { padding-bottom: 0; }
+
+.wptp-wrap .wptp-setting { margin-top: 40px; }
+.wptp-wrap .wptp-setting:first-of-type { margin-top: 30px; }
+.wptp-wrap .wptp-setting:last-of-type { margin-bottom: 30px; }
+.wptp-wrap .wptp-setting h3 { margin: 0 0 10px 0; padding: 4px 0 4px 25px; font-size: 22px; background: url(../img/wptp-icon.png) no-repeat left center; }
+.wptp-wrap .wptp-setting table tr:last-of-type td { padding-bottom: 0; }
+.wptp-wrap .wptp-setting p { font-size: 1.1em; line-height: 145%; }
+.wptp-wrap .wptp-setting small { font-size: 0.9em; line-height: 165%; }
+
+.wptp-wrap .col-wrap { margin-top: 1em; }
+.wptp-wrap #col-container img { width: 100%; height: auto; display: inline-block; margin-top: 1em !important; }
+.wptp-wrap #col-container p { font-size: 1.5em; }
+.wptp-wrap #col-container ul { margin-left: 3em; }
+.wptp-wrap #col-container li { list-style: square; font-size: 1.5em; line-height: 140%; }
+
+.wptp-wrap a.wptp-button { display: inline-block; margin: 1em 20%; padding: 10px 5%; width: 50%; text-align: center; text-decoration: none; font-size: 1.0em; color: #ffffff; background-color: #643ae5; border-radius: 4px; }
+
+.wptp-wrap .wptp-footer { float: left; display: block; clear: both; width: 100%; margin: 65px 0px 0px 0px; padding: 0; text-align: center; text-transform: uppercase; font-size: 14px; color: #464b50; }
+.wptp-wrap .wptp-footer img { width: 17px;	padding-top: 10px; -ms-interpolation-mode: bicubic; vertical-align: middle; margin: -14px 2px 0px 2px; }
+.wptp-wrap .wptp-footer a { color: #464b50; text-decoration: none; }youtube 
